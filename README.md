@@ -23,6 +23,14 @@
   - [HSBC](https://www.hsbc.co.in/)
   - [ANZ New Zealand](https://www.anz.co.nz/)
   - [Total Banking Solution US](https://totalbanksolutions.com/)
+  - [Vogue Runway](https://www.vogue.com/fashion-shows)
+  - [Vogue September Issue](https://www.vogue.com/article/september-issue-2021)
+
+#### 
+
+#### :school: Education
+  - [Miss Hill School](https://www.misshillhsschool.edu.in/) in June 2008.
+  - [Rajiv Gandhi Proudyogiki Vishwavidyalaya](https://www.rgpv.ac.in/) in June 2012.
    
 #### 👯 I’m looking to collaborate on the project which can help community in any way.
 

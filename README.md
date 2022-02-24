@@ -1,16 +1,43 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/pl2ern4" target="_blank" rel="noreferrer"><img width="150" height="150" src="https://avatars.githubusercontent.com/u/24780051?v=4" alt="Prerna Chaturvedi"></a>
+</p>
 
-<!--
-**pl2ern4/pl2ern4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Prerna Chaturvedi (She/Her)👋
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently working on:
+  - [Met Gala](https://www.vogue.com/tag/event/met-gala)
+  - Freelance project of [Account Spark](https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000FAaP5UAL)
+  
+#### 🌱 I’m currently learning 
+       - Amazong Web Services
+       - Javascript
+       - React JS
+       - Salesforce
+       - Shell Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :woman_office_worker: I worked on:
+  - [Recharge & Bill Payments](https://www.justdial.com/Mumbai/Restaurant-Collections)
+  - [Restaurants](https://www.justdial.com/Mumbai/Restaurant-Collections)
+  - [Order Books](https://www.justdial.com/order-books)
+  - [Micheal Kors](https://www.michaelkors.com/)
+  - [HSBC](https://www.hsbc.co.in/)
+  - [ANZ New Zealand](https://www.anz.co.nz/)
+  - [Total Banking Solution US](https://totalbanksolutions.com/)
+   
+#### 👯 I’m looking to collaborate on the project which can help community in any way.
+
+#### 🤔 I’m looking for help with each & everything I'm trying.
+
+#### 💬 Ask me about
+      - The work 
+      - The day
+      - Any random stuff. 
+
+### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/prerna-chaturvedi-28546950/"><img align="left" src="https://raw.githubusercontent.com/pl2ern4/pl2ern4/main/linkedin.svg" alt="Prerna Chaturvedi | LinkedIn" width="22px"/></a>
+<a href="https://www.instagram.com/its.prerna/"><img align="left" src="https://raw.githubusercontent.com/pl2ern4/pl2ern4/main/instagram.svg" alt="Prerna Chaturvedi | Instagram" width="21px"/></a>
+<a href="mailto:chaturvediprerna03@gmail.com"><img align="left" src="https://raw.githubusercontent.com/pl2ern4/pl2ern4/main/gmail.svg" alt="Prerna Chaturvedi | Gmail" width="23px"/></a>
+</br>
+
+#### ⚡ Fun fact: If you want it, you can do it :wink:	
+

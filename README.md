@@ -29,8 +29,8 @@
 #### 
 
 #### :school: Education
-  - [Miss Hill School](https://www.misshillhsschool.edu.in/) in June 2008.
-  - [Rajiv Gandhi Proudyogiki Vishwavidyalaya](https://www.rgpv.ac.in/) in June 2012.
+  - [Miss Hill School](https://www.misshillhsschool.edu.in/)(July 1994 - June 2008).
+  - [Rajiv Gandhi Proudyogiki Vishwavidyalaya](https://www.rgpv.ac.in/) (September 2008 - June 2012)
    
 #### 👯 I’m looking to collaborate on the project which can help community in any way.
 
